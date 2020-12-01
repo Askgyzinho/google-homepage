@@ -1,3 +1,171 @@
-p{
-    padding-top: 200px;
+#googleLogo{
+    display: block;
+    margin: auto;
+    padding-top: 170px;
+    padding-bottom: 10px;
+}
+
+.pesquisa{
+
+    float: left;
+    margin: auto;
+    padding-top: 4px;
+    width: 400px;
+    padding-left: 10px;
+    margin-left: 450px;
+    text-align: justify;
+    border-radius: 20px;
+    display: block;
+    outline: none;
+    height: 20px;
+    border: none;
+    position: relative;
+    
+}
+
+.botoes  {
+    background-image: -webkit-linear-gradient(top, white, #f8f9fa);
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    font-size: 14px;
+    margin: 11px 4px;
+    height: 36px;
+    padding: 0 16px;
+    margin-left: -350px;
+    margin-right: 300px;
+    top: 40px;
+    position: relative;
+    outline: none;
+    color: rgb(85, 83, 83);
+    
+}
+#iconeTeclado{
+    width: 20px;
+    height: 20px;
+    padding-left: 20px;
+    right: 150px;
+    position: relative;
+    bottom: 10px;
+}
+
+#iconeMic{
+    width: 15px;
+    height: 20px;
+    right: 135px;
+    position: relative;
+    bottom: 10px;
+}
+#botaoE {
+    float: left;  
+    position: relative;
+}
+
+#barraPesquisa {
+    background-color: transparent;
+    border: 1px;
+    border-color: rgb(204 204 204);
+    border-style: solid;
+    height: 40px;
+    border-radius: 20px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    top: 35px;
+    padding-left: 90px;
+
+}
+
+#Topo {
+    position: relative;
+    bottom:  360px;
+    left: 1100px;
+    width: 220px;
+    
+}
+#Topo :link {
+    text-decoration: none;
+}
+
+#gmail {
+    float: left;
+    padding-right: 10px;
+      
+}
+
+#imagens {
+    float: left;
+    padding-right: 10px;
+    
+}
+
+#singIn {
+    float: left;
+    padding-right: 10px;
+}
+
+#singIn a {
+    background-color: rgb(29, 136, 236);
+    border-radius: 2px;
+    padding: 5px 8px;
+    color: white;
+}
+
+#Conta {
+
+    bottom: 10px;
+    position: relative;
+}
+#Conta img {
+    border-radius: 50%;
+    
+}
+
+#Rodape {
+    position: relative;
+    top: 180px;
+    background-color: #f2f2f2;
+    
+    
+}
+
+#Rodape :visited {
+    color: rgb(102, 95, 95);
+}
+
+#Rodape :link {
+    text-decoration: none;
+}
+
+#Idioma {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 1px solid rgb(204 204 204);
+    padding-left: 27px;
+    line-height: 20px;
+}
+
+#creditos {
+    padding-top: 10px;
+    border-top: 1px solid rgb(204 204 204);
+    padding-left: 27px;
+    line-height: 20px;
+    word-spacing: 30px;
+}
+
+#creditosD{
+    position: relative;
+    padding-left: 1000px;
+    bottom: 20px;
+    word-spacing: 40px;
+}
+
+#lupa {
+    
+    width: 20px;
+    height: 20px;
+    right: 520px;
+    bottom: 11px;
+
+    position: relative;
 }
